@@ -1,4 +1,6 @@
-## Hi there 👋
+##Its all in the Head  
+## 🚀 Innovating Chaos, One Line of Code at a Time 🌌
+
 
 <!--
 **Njeru58/Njeru58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
